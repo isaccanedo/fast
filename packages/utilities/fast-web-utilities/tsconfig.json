@@ -1,0 +1,11 @@
+{
+    "extends": "../../../tsconfig.json",
+    "compilerOptions": {
+        "baseUrl": ".",
+        "outDir": "./dist",
+        "strictNullChecks": true,
+        "strictPropertyInitialization": true,
+        "allowJs": true,
+        "types": ["mocha", "webpack-env", "node"]
+    }
+}

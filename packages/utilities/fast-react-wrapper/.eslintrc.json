@@ -1,0 +1,3 @@
+{
+    "extends": ["@microsoft/eslint-config-fast-dna", "prettier"]
+}
